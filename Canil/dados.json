@@ -1,0 +1,44 @@
+[
+  {
+    "Canil": "Meu Caniu Feliz",
+    "Distancia": 2,
+    "Dias": "2,3,4,5,6",
+    "Pequeno": 20,
+    "Grande": 40
+  },
+  {
+    "Canil": "Meu Caniu Feliz",
+    "Distancia": 2,
+    "Dias": "1,7",
+    "Pequeno": 24,
+    "Grande": 48
+  },
+  {
+    "Canil": "Vai Rex",
+    "Distancia": 1.7,
+    "Dias": "2,3,4,5,6",
+    "Pequeno": 15,
+    "Grande": 50
+  },
+  {
+    "Canil": "Vai Rex",
+    "Distancia": 1.7,
+    "Dias": "1,7",
+    "Pequeno": 20,
+    "Grande": 55
+  },
+  {
+    "Canil": "ChowChawgas",
+    "Distancia": 0.8,
+    "Dias": "2,3,4,5,6",
+    "Pequeno": 30,
+    "Grande": 45
+  },
+  {
+    "Canil": "ChowChawgas",
+    "Distancia": 0.8,
+    "Dias": "1,7",
+    "Pequeno": 30,
+    "Grande": 45
+  }
+]
